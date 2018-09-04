@@ -1,4 +1,4 @@
-# Personal GridMove layout
+# Personal GridMove grid
 
 JGPaiva's GridMove :
 
