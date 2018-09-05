@@ -2,8 +2,6 @@
 
 The grid is set up for a landscape main monitor and a portrait secondary monitor, and has 10 areas that I personally access via the command key (win) and numerical keys 1 through 0. 
 
-![Grid](https://i.imgur.com/9Ms6aoZ.png)
-
 Main monitor: 
 - 1 x 100%
 - 2 x 50%
@@ -13,6 +11,8 @@ Secondary monitor:
 - 2 x 50%
 - 1 x 66%
 - 1 x 100%
+
+![Grid](https://i.imgur.com/9Ms6aoZ.png)
 
 JGPaiva's GridMove :
 
