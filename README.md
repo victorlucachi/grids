@@ -1,5 +1,3 @@
-# Personal GridMove grid
-
 The grid is set up for a landscape main monitor and a portrait secondary monitor, and has 10 areas that I personally access via the command key (win) and numerical keys 1 through 0. 
 
 Main monitor: 
